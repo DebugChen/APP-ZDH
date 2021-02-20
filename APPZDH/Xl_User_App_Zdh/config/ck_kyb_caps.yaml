@@ -1,0 +1,12 @@
+platformName: Android
+#模拟器
+platformVersion: 6.0.1 #8.0.0
+deviceName: 1ec63518 #V3HBB18727512494
+appname: starlink_user_v4.2.1_2020-08-26-10-06-23.apk
+noReset: False
+unicodeKeyboard: True
+resetKeyboard: True
+appPackage: org.xc.peoplelive
+appActivity: org.xc.peoplelive.activity.StartActivity
+ip: 127.0.0.1
+port: 4723
